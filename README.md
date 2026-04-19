@@ -1,2 +1,2 @@
-# stock-analysis_system
+# stock-analysis-system
  Ai Agent Stock Analysis System
